@@ -1,4 +1,5 @@
 package com.example.parcial1prueba;
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 
@@ -10,6 +11,6 @@ public class p1 extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        
+
     }
 }
